@@ -1,0 +1,5 @@
+/home/umetsu/HDD2/pico/debugprobe/build/pioasm-install/pioasm/pioasm
+/home/umetsu/HDD2/pico/debugprobe/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/umetsu/HDD2/pico/debugprobe/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/umetsu/HDD2/pico/debugprobe/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/umetsu/HDD2/pico/debugprobe/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
